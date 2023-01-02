@@ -18,6 +18,7 @@ class person extends human{
     public function getperson(){
 
         return $this->farstname.$this->lastname.$this->phone.$this->DateofBirth.$this->homeadress;
+        echo "name";
     }
 }
 
