@@ -14,5 +14,6 @@ class human{
     {
       return $this->gender  ."__". $this->fat ."__".$this->length ;
     }
+
 }
 ?>

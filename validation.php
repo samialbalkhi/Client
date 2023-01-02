@@ -1,7 +1,7 @@
 <?php
 use Carbon\Carbon;
 require 'vendor/autoload.php';
-
+echo "new line";
 
 class validation{
     public function fatvalidation($fat)
